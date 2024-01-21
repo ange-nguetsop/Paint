@@ -10,6 +10,9 @@ This project is a simple Python-based paint application using the OpenCV library
 - **Save Drawing**: Press 's' to save the current drawing as an image file.
 - **Quit Application**: Press 'q' to close the application.
 
+## Example
+![Alt Camera Calibration](https://github.com/ange-nguetsop/ARShop/blob/master/CppCLR_WinformsProject-main/CppCLR_WinformsProject/Calibration.gif)
+
 ## Usage
 Execute the Python script from your terminal or IDE to start the application. A window will open where you can start drawing.
 
