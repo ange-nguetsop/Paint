@@ -11,7 +11,7 @@ This project is a simple Python-based paint application using the OpenCV library
 - **Quit Application**: Press 'q' to close the application.
 
 ## Example
-![Example](https://github.com/ange-nguetsop/Paint/blob/master/Saved_image.png)
+![Example](https://github.com/ange-nguetsop/Paint/blob/master/Example.png)
 
 ## Usage
 Execute the Python script from your terminal or IDE to start the application. A window will open where you can start drawing.
