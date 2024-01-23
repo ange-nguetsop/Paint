@@ -5,6 +5,7 @@ This project is a simple Python-based paint application using the OpenCV library
 ## Features
 
 - **Drawing with the Mouse**: Click and drag the mouse to draw on the canvas.
+- **Erasing with Mouse**: To erase the image, hold down the right mouse button and move over the area to be erased. You can also change the size of the eraser using the mouse wheel.
 - **Color Change**: Adjust the R, G, B values using the trackbars to change the drawing color.
 - **Brush Thickness Adjustment**: Use the mouse wheel to increase or decrease the brush thickness.
 - **Save Drawing**: Press 's' to save the current drawing as an image file.
